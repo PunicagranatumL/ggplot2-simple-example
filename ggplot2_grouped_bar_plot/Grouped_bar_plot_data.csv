@@ -1,0 +1,7 @@
+Stage,cultivar,value,sd
+young_fruit,Fuji,10.2,2
+young_fruit,GD,11.5,3
+developing_fruit,Fuji,15.2,1
+developing_fruit,GD,16.1,1.5
+mature_fruit,Fuji,20.5,2.4
+mature_fruit,GD,21.2,3.2
